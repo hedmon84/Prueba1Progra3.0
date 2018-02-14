@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Prueba1Progra3_0.dir/main.cpp.o CMakeFiles/Prueba1Progra3_0.dir/Carga.cpp.o  -o Prueba1Progra3_0.exe -Wl,--out-implib,libPrueba1Progra3_0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

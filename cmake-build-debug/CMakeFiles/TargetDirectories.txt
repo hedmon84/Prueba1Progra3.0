@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Prueba1Progra3.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Prueba1Progra3.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Prueba1Progra3.0/cmake-build-debug/CMakeFiles/Prueba1Progra3_0.dir
